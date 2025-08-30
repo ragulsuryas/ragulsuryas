@@ -1,3 +1,5 @@
-Software Engineer working in the travel-tech industry, building scalable systems and microservices. As a hobby, I enjoy training deep neural networks.
+Hi :)  
 
-Email: ragulsuryasundarraj@gmail.com
+I’m a Software Engineer in the travel-tech industry, and as a hobby I enjoy building deep neural nets from scratch.  
+
+📫 ragulsuryasundarraj@gmail.com

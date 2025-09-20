@@ -1,5 +1,3 @@
-Hi :)  
+Hi :) 
 
-I’m a Software Engineer in the travel-tech industry, and as a hobby I enjoy building deep neural nets from scratch.  
-
-📫 ragulsuryasundarraj@gmail.com
+I’m a software engineer, and as a hobby, I like to build and train neural networks from scratch.
